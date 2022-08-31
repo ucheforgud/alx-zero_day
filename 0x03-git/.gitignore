@@ -1,0 +1,3 @@
+#Skip the emacs file when commiting
+
+*~
